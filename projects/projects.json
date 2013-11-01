@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Hatch",
+      "thumb": "Hatch/thumb.png",
+      "desc": "Hatch was created to enable anyone to transform a product they like, whether jewelry, a piece of home decor, or a gift for a special someone, into a product they love. Custom e-commerce, done right.",
+      "url": "http://www.hatch.co",
+      "info": "http://www.hatch.co/about/",
+      "submitter": "NoahFisher", 
+      "submissionDate": "2013-11-01", 
+      "tags": [
+        "production",
+        "e-commerce", "interactive-shopping", 
+        "ruby-on-rails", "local-storage", "JSON",
+        "jQuery"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
